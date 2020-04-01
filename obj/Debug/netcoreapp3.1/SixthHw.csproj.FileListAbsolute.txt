@@ -1,0 +1,13 @@
+C:\Users\dell\Desktop\New folder\SixthHw\bin\Debug\netcoreapp3.1\SixthHw.exe
+C:\Users\dell\Desktop\New folder\SixthHw\bin\Debug\netcoreapp3.1\SixthHw.deps.json
+C:\Users\dell\Desktop\New folder\SixthHw\bin\Debug\netcoreapp3.1\SixthHw.runtimeconfig.json
+C:\Users\dell\Desktop\New folder\SixthHw\bin\Debug\netcoreapp3.1\SixthHw.runtimeconfig.dev.json
+C:\Users\dell\Desktop\New folder\SixthHw\bin\Debug\netcoreapp3.1\SixthHw.dll
+C:\Users\dell\Desktop\New folder\SixthHw\bin\Debug\netcoreapp3.1\SixthHw.pdb
+C:\Users\dell\Desktop\New folder\SixthHw\obj\Debug\netcoreapp3.1\SixthHw.csprojAssemblyReference.cache
+C:\Users\dell\Desktop\New folder\SixthHw\obj\Debug\netcoreapp3.1\SixthHw.csproj.CoreCompileInputs.cache
+C:\Users\dell\Desktop\New folder\SixthHw\obj\Debug\netcoreapp3.1\SixthHw.AssemblyInfoInputs.cache
+C:\Users\dell\Desktop\New folder\SixthHw\obj\Debug\netcoreapp3.1\SixthHw.AssemblyInfo.cs
+C:\Users\dell\Desktop\New folder\SixthHw\obj\Debug\netcoreapp3.1\SixthHw.dll
+C:\Users\dell\Desktop\New folder\SixthHw\obj\Debug\netcoreapp3.1\SixthHw.pdb
+C:\Users\dell\Desktop\New folder\SixthHw\obj\Debug\netcoreapp3.1\SixthHw.genruntimeconfig.cache
